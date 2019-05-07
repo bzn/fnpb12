@@ -1,0 +1,55 @@
+[23-Jan-2012 03:59:37] PHP Warning:  include(./common.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home4/ohohdada/public_html/fantasy/service/handle.php on line 6
+[23-Jan-2012 03:59:37] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening './common.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/ohohdada/public_html/fantasy/service/handle.php on line 6
+[31-Jan-2012 20:13:15] PHP Fatal error:  Undefined class constant 'USER_DATA' in /home4/ohohdada/public_html/fantasy/lib/package/Utility/utilUserDataManager.php on line 33
+[31-Jan-2012 20:13:20] PHP Fatal error:  Undefined class constant 'USER_DATA' in /home4/ohohdada/public_html/fantasy/lib/package/Utility/utilUserDataManager.php on line 33
+[31-Jan-2012 20:14:43] PHP Fatal error:  Undefined class constant 'USER_DATA' in /home4/ohohdada/public_html/fantasy/lib/package/Utility/utilUserDataManager.php on line 33
+[31-Jan-2012 20:14:45] PHP Fatal error:  Undefined class constant 'USER_DATA' in /home4/ohohdada/public_html/fantasy/lib/package/Utility/utilUserDataManager.php on line 33
+[31-Jan-2012 20:14:47] PHP Fatal error:  Undefined class constant 'USER_DATA' in /home4/ohohdada/public_html/fantasy/lib/package/Utility/utilUserDataManager.php on line 33
+[01-Feb-2012 20:35:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/ohohdada/public_html/fantasy/service/handle.php:2) in /home4/ohohdada/public_html/fantasy/lib/common.php on line 3
+[01-Feb-2012 20:35:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/ohohdada/public_html/fantasy/service/handle.php:2) in /home4/ohohdada/public_html/fantasy/service/handle.php on line 10
+[01-Feb-2012 20:37:09] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/ohohdada/public_html/fantasy/service/handle.php:2) in /home4/ohohdada/public_html/fantasy/lib/common.php on line 3
+[01-Feb-2012 20:37:09] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/ohohdada/public_html/fantasy/service/handle.php:2) in /home4/ohohdada/public_html/fantasy/service/handle.php on line 10
+[01-Feb-2012 20:38:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/ohohdada/public_html/fantasy/service/handle.php:2) in /home4/ohohdada/public_html/fantasy/lib/common.php on line 3
+[01-Feb-2012 20:38:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/ohohdada/public_html/fantasy/service/handle.php:2) in /home4/ohohdada/public_html/fantasy/service/handle.php on line 10
+[03-Feb-2012 19:15:57] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/ohohdada/public_html/fantasy/service/handle.php:64) in /home4/ohohdada/public_html/fantasy/include/init.php on line 7
+[03-Feb-2012 19:28:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/ohohdada/public_html/fantasy/service/handle.php:64) in /home4/ohohdada/public_html/fantasy/include/init.php on line 7
+[03-Feb-2012 19:30:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/ohohdada/public_html/fantasy/service/handle.php:64) in /home4/ohohdada/public_html/fantasy/include/init.php on line 7
+[05-Feb-2012 13:15:26] PHP Warning:  json_encode() expects exactly 1 parameter, 2 given in /home4/ohohdada/public_html/fantasy/service/handle.php on line 120
+[05-Feb-2012 13:18:25] PHP Warning:  json_encode() expects exactly 1 parameter, 2 given in /home4/ohohdada/public_html/fantasy/service/handle.php on line 120
+[05-Feb-2012 14:35:37] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home4/ohohdada/public_html/fantasy/class/myteam.class.php on line 58
+[05-Feb-2012 14:38:28] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home4/ohohdada/public_html/fantasy/class/myteam.class.php on line 58
+[05-Feb-2012 14:38:51] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home4/ohohdada/public_html/fantasy/class/myteam.class.php on line 58
+[05-Feb-2012 14:38:53] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home4/ohohdada/public_html/fantasy/class/myteam.class.php on line 58
+[05-Feb-2012 14:38:57] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home4/ohohdada/public_html/fantasy/class/myteam.class.php on line 58
+[05-Feb-2012 14:44:40] PHP Fatal error:  Call to undefined method utilMyTeamDataManager::trade() in /home4/ohohdada/public_html/fantasy/service/handle.php on line 120
+[05-Feb-2012 14:47:28] PHP Fatal error:  Call to a member function fetch() on a non-object in /home4/ohohdada/public_html/fantasy/class/myteam.class.php on line 15
+[05-Feb-2012 14:49:32] PHP Fatal error:  Call to a member function fetch() on a non-object in /home4/ohohdada/public_html/fantasy/class/myteam.class.php on line 15
+[05-Feb-2012 15:21:09] PHP Fatal error:  Call to a member function fetch() on a non-object in /home4/ohohdada/public_html/fantasy/include/func.php on line 184
+[05-Feb-2012 15:23:36] PHP Fatal error:  Call to a member function fetch() on a non-object in /home4/ohohdada/public_html/fantasy/class/myteam.class.php on line 15
+[14-Feb-2012 01:56:15] PHP Fatal error:  Cannot redeclare getserverstate() (previously declared in /home4/ohohdada/public_html/fantasy/include/func.php:28) in /home4/ohohdada/public_html/fantasy/include/func.php on line 70
+[14-Feb-2012 04:06:14] PHP Fatal error:  Cannot redeclare getserverstate() (previously declared in /home4/ohohdada/public_html/fantasy/include/func.php:28) in /home4/ohohdada/public_html/fantasy/include/func.php on line 70
+[16-Feb-2012 00:16:37] PHP Fatal error:  Cannot redeclare getplayerrecdaily() (previously declared in /home4/ohohdada/public_html/fantasy/include/func.php:26) in /home4/ohohdada/public_html/fantasy/include/func.php on line 49
+[16-Feb-2012 00:16:39] PHP Fatal error:  Cannot redeclare getplayerrecdaily() (previously declared in /home4/ohohdada/public_html/fantasy/include/func.php:26) in /home4/ohohdada/public_html/fantasy/include/func.php on line 49
+[16-Feb-2012 00:16:51] PHP Fatal error:  Cannot redeclare getplayerrecdaily() (previously declared in /home4/ohohdada/public_html/fantasy/include/func.php:26) in /home4/ohohdada/public_html/fantasy/include/func.php on line 49
+[16-Feb-2012 00:18:03] PHP Fatal error:  Cannot redeclare getplayerrecdaily() (previously declared in /home4/ohohdada/public_html/fantasy/include/func.php:26) in /home4/ohohdada/public_html/fantasy/include/func.php on line 49
+[16-Feb-2012 00:18:46] PHP Fatal error:  Cannot redeclare getplayerrecdaily() (previously declared in /home4/ohohdada/public_html/fantasy/include/func.php:26) in /home4/ohohdada/public_html/fantasy/include/func.php on line 49
+[16-Feb-2012 00:18:48] PHP Fatal error:  Cannot redeclare getplayerrecdaily() (previously declared in /home4/ohohdada/public_html/fantasy/include/func.php:26) in /home4/ohohdada/public_html/fantasy/include/func.php on line 49
+[16-Feb-2012 00:19:24] PHP Fatal error:  Cannot redeclare getplayerrecdaily() (previously declared in /home4/ohohdada/public_html/fantasy/include/func.php:26) in /home4/ohohdada/public_html/fantasy/include/func.php on line 49
+[16-Feb-2012 00:19:49] PHP Fatal error:  Cannot redeclare getplayerrecdaily() (previously declared in /home4/ohohdada/public_html/fantasy/include/func.php:26) in /home4/ohohdada/public_html/fantasy/include/func.php on line 49
+[16-Feb-2012 00:19:51] PHP Fatal error:  Cannot redeclare getplayerrecdaily() (previously declared in /home4/ohohdada/public_html/fantasy/include/func.php:26) in /home4/ohohdada/public_html/fantasy/include/func.php on line 49
+[16-Feb-2012 00:19:51] PHP Fatal error:  Cannot redeclare getplayerrecdaily() (previously declared in /home4/ohohdada/public_html/fantasy/include/func.php:26) in /home4/ohohdada/public_html/fantasy/include/func.php on line 49
+[16-Feb-2012 00:19:51] PHP Fatal error:  Cannot redeclare getplayerrecdaily() (previously declared in /home4/ohohdada/public_html/fantasy/include/func.php:26) in /home4/ohohdada/public_html/fantasy/include/func.php on line 49
+[16-Feb-2012 00:19:51] PHP Fatal error:  Cannot redeclare getplayerrecdaily() (previously declared in /home4/ohohdada/public_html/fantasy/include/func.php:26) in /home4/ohohdada/public_html/fantasy/include/func.php on line 49
+[16-Feb-2012 00:19:53] PHP Fatal error:  Cannot redeclare getplayerrecdaily() (previously declared in /home4/ohohdada/public_html/fantasy/include/func.php:26) in /home4/ohohdada/public_html/fantasy/include/func.php on line 49
+[16-Feb-2012 00:21:08] PHP Fatal error:  Cannot redeclare getplayerrecdaily() (previously declared in /home4/ohohdada/public_html/fantasy/include/func.php:26) in /home4/ohohdada/public_html/fantasy/include/func.php on line 49
+[16-Feb-2012 00:21:09] PHP Fatal error:  Cannot redeclare getplayerrecdaily() (previously declared in /home4/ohohdada/public_html/fantasy/include/func.php:26) in /home4/ohohdada/public_html/fantasy/include/func.php on line 49
+[16-Feb-2012 00:21:09] PHP Fatal error:  Cannot redeclare getplayerrecdaily() (previously declared in /home4/ohohdada/public_html/fantasy/include/func.php:26) in /home4/ohohdada/public_html/fantasy/include/func.php on line 49
+[16-Feb-2012 00:21:27] PHP Fatal error:  Call to a member function fetch() on a non-object in /home4/ohohdada/public_html/fantasy/class/myteam.class.php on line 15
+[16-Feb-2012 00:22:56] PHP Fatal error:  Call to a member function fetch() on a non-object in /home4/ohohdada/public_html/fantasy/class/myteam.class.php on line 15
+[16-Feb-2012 00:22:57] PHP Fatal error:  Call to a member function fetch() on a non-object in /home4/ohohdada/public_html/fantasy/class/myteam.class.php on line 15
+[16-Feb-2012 00:22:58] PHP Fatal error:  Call to a member function fetch() on a non-object in /home4/ohohdada/public_html/fantasy/class/myteam.class.php on line 15
+[16-Feb-2012 00:22:58] PHP Fatal error:  Call to a member function fetch() on a non-object in /home4/ohohdada/public_html/fantasy/class/myteam.class.php on line 15
+[16-Feb-2012 00:23:31] PHP Fatal error:  Call to a member function fetch() on a non-object in /home4/ohohdada/public_html/fantasy/class/myteam.class.php on line 15
+[16-Feb-2012 00:24:28] PHP Fatal error:  Call to a member function fetch() on a non-object in /home4/ohohdada/public_html/fantasy/class/myteam.class.php on line 15
+[16-Feb-2012 00:24:59] PHP Fatal error:  Call to a member function fetch() on a non-object in /home4/ohohdada/public_html/fantasy/class/myteam.class.php on line 15
+[21-Feb-2012 11:24:37] PHP Fatal error:  Call to a member function fetch() on a non-object in /home4/ohohdada/public_html/fantasy/class/myteam.class.php on line 15

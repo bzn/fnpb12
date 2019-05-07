@@ -1,0 +1,331 @@
+* {
+	position: relative;
+}
+
+
+html, body {
+	height: 100%	
+}
+
+.container {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+}
+
+.header {
+	margin: 0 0 35px;
+}
+
+.clear:after {
+	clear: both;
+}
+
+.overflow {
+	overflow: hidden;
+	width: 100%;
+}
+
+#tbl_team {
+	word-break: break-all;
+}
+
+footer {
+	height: 90px;
+	text-align: center;
+	position: relative;
+	bottom: 0px;
+	width: 100%;
+	left: 0px;
+	line-height: 90px;
+}
+
+table tr th, table tr td {
+	padding-left: 2px;
+	padding-right: 2px;
+	vertical-align: middle;
+}
+
+select.mini {
+	width: 50px;
+	margin-bottom: 0px;
+}
+.pos_field {
+
+}
+
+.team_field {}
+
+/* 2 digit */
+.w_field, .l_field, .s_field, .k_field, .tbbs_field {
+	width: 30px;
+}
+
+/* 4 digit */
+.era_field, .whip_field, .total_point_field, .avg_point_field {
+	width: 40px;
+}
+
+.match_field {
+	width: 45px;
+}
+
+/* 5 digit */
+.point_field, .ip_field, .raise_donw_field {
+	width: 40px;
+} 
+
+/* 7 digit */
+.sell_price_field {
+	width: 55px;
+}
+
+.number-value {
+	text-align: right;
+}
+
+.name-value {
+	text-align: left;
+}
+
+.center-value {
+	text-align: center;
+}
+
+.control-group {
+	margin: 0 0 10px 0px;
+}
+
+.fantasy-logo {
+	position: absolute;
+	top: -35px;
+	left: 0px;
+}
+
+#content .padding-logo {
+	margin-left: 220px;
+}
+
+.table-caption {
+	background: #eee;
+}
+
+.tab-content {
+	border: 1px solid #ddd;
+	border-top: none;
+	padding-top: 10px;
+}
+
+#player_info .nav {
+	margin-bottom: 0px;
+}
+
+.info_content {
+	float: left;
+}
+
+.lea_rank_status {
+	float: right;
+}
+
+.list {
+	margin-left: 0px;
+}
+
+.list li {
+	list-style: none;
+}
+
+.lea_item {
+	padding: 3px;
+	margin-bottom: 5px;
+}
+
+.box {
+	border: 1px solid #ddd;
+	padding: 5px 5px 5px 10px;
+	background: #666;
+	color: #fff;
+}
+
+.box-light {
+	background: #fff;
+	color: #000;
+	margin-bottom: 10px;
+}
+
+.table td, .table th {
+	vertical-align: middle;
+}
+
+.table-condensed th, .table-condensed td, #myteam_info th, #myteam_info td {
+	padding: 4px;
+}
+
+td, th {
+	padding: 0 3px;
+}
+
+.right-border {
+	border-right: 1px solid #ddd;
+}
+
+.left-border {
+	border-left: 1px solid #ddd;
+}
+.table-border {
+	border: 1px solid #ddd;
+}
+
+.tbl-hd {
+	background: #333;
+	color: #eee;
+}
+
+#myteam_info .tbl-caption th {
+	background: #666;
+	color: #eee;
+	font-weight: normal;
+}
+
+.table th {
+	font-weight: normal;
+}
+
+.nav[class*=span] {
+	margin-left: 10px;
+}
+
+.title {
+	border-bottom: 1px solid #999;
+	margin-bottom: 10px;
+	padding-bottom: 5px;
+}
+
+#team_lineup .nav {
+	margin-bottom: 10px;
+}
+
+.navbar-wrapper {
+	z-index: 5;
+	margin: 25px 0;
+}
+
+.tag_info {
+	font-size: 18px;
+}
+
+.box-wrapper {
+	margin-bottom: 25px;
+}
+
+.pos-right {
+	position: absolute;
+	right: 0px;
+	top: 0px;
+}
+
+.calendar {
+	background: #fff;
+	border: 1px solid #888;
+}
+
+.calendar .day-field {
+	text-align: center;
+}
+
+.calendar .team {
+	font-size: 16px;
+}
+
+.coach-board {
+	padding: 5px;
+	height: 150px;
+}
+
+.coach-board .box-title {
+	border-bottom: 1px solid #bbb;
+	color: #555;
+	background-color: #fff;
+	margin-bottom: 10px;
+}
+
+.box-content {
+
+}
+
+.pitcher-index, .player-index {
+	text-align: center;
+}
+
+.pitcher-index img, .player-index img{
+	height: 160px;
+	margin: 0px auto;
+}
+
+.pitcher-index {
+	margin-bottom: 10px;
+}
+
+.player-index {
+	margin-top: 10px;
+}
+
+.text-center {
+	text-align: center;
+}
+
+/* npb team color */
+.npb_g, .npb_y, .npb_b, .npb_d, .npb_t, .npb_c,
+.npb_l, .npb_f, .npb_m, .npb_e, .npb_bs, .npb_s {
+	font-size: 18px;
+	font-weight: bolder;
+}
+
+.npb_g {
+	color: rgb(255,153,0);
+}
+
+.npb_y {
+	color: rgb(34, 64, 153);
+}
+
+.npb_b {
+	color: rgb(0, 51, 204);
+}
+
+.npb_d {
+	color: rgb(1, 0, 154);
+}
+
+.npb_t {
+	color: rgb(255, 204, 0);
+}
+
+.npb_c {
+	color: rgb(254, 0, 0);
+}
+
+.npb_l {
+	color: rgb(1, 102, 255);
+}
+
+.npb_f {
+	color: rgb(0, 119, 171);
+}
+
+.npb_m {
+	color: rgb(51, 51, 51);
+}
+
+.npb_e {
+	color: rgb(102, 0, 50);
+}
+
+.npb_bs {
+	color: rgb(51, 0, 153);
+}
+
+.npb_s {
+	color: rgb(252, 201, 0);
+}

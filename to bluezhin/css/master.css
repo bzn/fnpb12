@@ -1,0 +1,67 @@
+body {
+
+}
+
+#tbl_team {
+	word-break: break-all;
+}
+
+footer {
+	height: 90px;
+	text-align: center;
+}
+
+table tr th, table tr td {
+	padding-left: 2px;
+	padding-right: 2px;
+	vertical-align: middle;
+}
+
+select.mini {
+	width: 45px;
+}
+.pos_field {
+
+}
+
+.team_field {}
+
+/* 2 digit */
+.w_field, .l_field, .s_field, .k_field, .tbbs_field {
+	width: 30px;
+}
+
+/* 4 digit */
+.era_field, .whip_field, .total_point_field, .avg_point_field {
+	width: 40px;
+}
+
+.match_field {
+	width: 45px;
+}
+
+/* 5 digit */
+.point_field, .ip_field, .raise_donw_field {
+	width: 40px;
+} 
+
+/* 7 digit */
+.sell_price_field {
+	width: 55px;
+}
+
+.number-value {
+	text-align: right;
+}
+
+.name-value {
+	text-align: left;
+}
+
+.center-value {
+	text-align: center;
+}
+
+.control-group {
+	margin: 0 0 10px 0px;
+}
